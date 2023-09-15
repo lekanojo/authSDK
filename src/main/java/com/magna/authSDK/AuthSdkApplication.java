@@ -1,0 +1,13 @@
+package com.magna.authSDK;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AuthSdkApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(AuthSdkApplication.class, args);
+	}
+
+}
